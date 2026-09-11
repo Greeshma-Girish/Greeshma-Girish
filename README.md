@@ -1,82 +1,51 @@
 # Hi there! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" height="40px"/>
 
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/main/assets/banner.jpg" width="100%" alt="Greeshma Header Banner" style="border-radius: 8px;" />
 </div>
 
-## 👩‍💻 About Me
+<br/>
 
-I'm Greeshma Girish, a passionate Software Developer from India 🇮🇳
+## 😎 I'M GREESHMA!
 
-- 🔭 Aspiring Software Developer focused on creating efficient and user-friendly applications
-- 🌱 Currently learning **React Native**
-- 💬 Open to collaborating on interesting projects
-- 📫 Reach me at: [greeshmagirish108@gmail.com](mailto:greeshmagirish108@gmail.com)
+*Developer & Programmer | Ex-Intern @ Titan Company Limited*
 
-## 🛠️ Languages and Tools
+<br/>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-</div>
+I'm a Developer passionate about creating clean software, web applications, and modern digital solutions.
 
-### Frontend Development
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-</div>
-
-### Database & Cloud
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-</div>
-
-### Design Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Greeshma-Girish&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Greeshma-Girish&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-Girish&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/greeshmagirish24/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Greeshma-Girish">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
+- 💼 **Ex-Intern** @ **Titan Company Limited**
+- ⚡ **Focus:** Web Development, Software Engineering & Problem Solving
+- 🌱 **Learning & Exploring:** Modern Frameworks & Open Source
+- 📫 **Reach Me:** [Email](mailto:greeshma@example.com) • [LinkedIn](https://linkedin.com/in/greeshma) • [Portfolio](https://greeshma.dev)
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Greeshma-Girish&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+
+### 🚀 Projects *(One-Liners)*
+
+- 🔹 **[Titan-Workflow-Tool](https://github.com/YOUR-GITHUB-USERNAME/titan-workflow)** — Internal tool automated during internship to optimize project tracking.
+- 🔹 **[Web-App-Starter](https://github.com/YOUR-GITHUB-USERNAME/webapp-starter)** — Lightweight full-stack application template built with modern web technologies.
+- 🔹 **[Dev-Utilities](https://github.com/YOUR-GITHUB-USERNAME/dev-utilities)** — Handy script collection for automating daily development workflows.
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
