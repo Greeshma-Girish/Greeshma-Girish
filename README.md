@@ -9,14 +9,14 @@
 
 ## 😎 I'M GREESHMA!
 
-*Developer & Programmer | Ex-Intern @ Titan Company Limited*
+*Software developer | Ex-Intern @ Titan Company Limited*
 
 <br/>
 
 I'm a Developer passionate about creating clean software, web applications, and modern digital solutions.
 
 - 💼 **Ex-Intern** @ **Titan Company Limited**
-- ⚡ **Focus:** Web Development, Software Engineering & Problem Solving
+- ⚡ **Focus:** Web Development, AI-ML  & Problem Solving
 - 🌱 **Learning & Exploring:** Modern Frameworks & Open Source
 - 📫 **Reach Me:** [Email](mailto:greeshma@example.com) • [LinkedIn](https://linkedin.com/in/greeshma) • [Portfolio](https://greeshma.dev)
 
@@ -24,9 +24,9 @@ I'm a Developer passionate about creating clean software, web applications, and 
 
 ### 🚀 Projects *(One-Liners)*
 
-- 🔹 **[Titan-Workflow-Tool](https://github.com/YOUR-GITHUB-USERNAME/titan-workflow)** — Internal tool automated during internship to optimize project tracking.
-- 🔹 **[Web-App-Starter](https://github.com/YOUR-GITHUB-USERNAME/webapp-starter)** — Lightweight full-stack application template built with modern web technologies.
-- 🔹 **[Dev-Utilities](https://github.com/YOUR-GITHUB-USERNAME/dev-utilities)** — Handy script collection for automating daily development workflows.
+- 🔹 **[Titan-Eyewear-AI-Tool](https://github.com/Greeshma-Girish/eyewear-ai-latest)** — An AI-based tool that analyzes faces to recommend and match suitable eyewear.
+- 🔹 **[MediCare ](https://github.com/Sandiematt/Medi-Care)** — AI-powered counterfeit medicine detection system.
+- 🔹 **[Eco-Harbor](https://ECgithub.com/YOUR-GITHUB-USERNAME/dev-utilities)** — Sustainable community platform for eco-friendly initiatives.
 
 ---
 
