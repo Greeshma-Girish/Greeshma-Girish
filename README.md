@@ -1,15 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" height="40px"/>
 
 <div align="center">
-  
-  <!-- Animated Typing Banner -->
-  <img src="https://herokuapp.com!" alt="Typing SVG" />
-
-  <br/>
-
-  <!-- Optional Sub-Badge -->
-  <img src="https://shields.io" alt="Status Badge"/>
-
+  <img src="https://github.com" width="450" alt="Developer Activity"/>
 </div>
 
 <!-- Header Banner -->
