@@ -1,5 +1,17 @@
 # Hi there! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" height="40px"/>
 
+<div align="center">
+  
+  <!-- Animated Typing Banner -->
+  <img src="https://herokuapp.com!" alt="Typing SVG" />
+
+  <br/>
+
+  <!-- Optional Sub-Badge -->
+  <img src="https://shields.io" alt="Status Badge"/>
+
+</div>
+
 <!-- Header Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/main/assets/banner.jpg" width="100%" alt="Greeshma Header Banner" style="border-radius: 8px;" />
@@ -22,7 +34,7 @@ I'm a Developer passionate about creating clean software, web applications, and 
 
 ---
 
-### 🚀 Projects *(One-Liners)*
+### 🚀 Projects
 
 - 🔹 **[Titan-Eyewear-AI-Tool](https://github.com/Greeshma-Girish/eyewear-ai-latest)** — An AI-based tool that analyzes faces to recommend and match suitable eyewear.
 - 🔹 **[MediCare ](https://github.com/Sandiematt/Medi-Care)** — AI-powered counterfeit medicine detection system.
